@@ -20,6 +20,11 @@
 
 MeshSense is an advanced computer vision system that combines Intel RealSense depth sensing technology with sophisticated image processing algorithms to detect and analyze holes in mesh materials in real-time. The system provides accurate measurements of hole dimensions and their distances from the camera, making it ideal for quality control and analysis applications.
 
+## Regular Image
+![normal_image](https://github.com/user-attachments/assets/df4253ab-04fd-4f2d-a97a-df8e595aad66)
+##Output
+![image 06](https://github.com/user-attachments/assets/636dfabe-27d2-4ee9-afb5-2236ca66a870)
+
 ## 🏗 System Architecture
 
 ```mermaid
